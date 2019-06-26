@@ -1,6 +1,6 @@
 # Learn Redux
 
-* Install Chrome extension: Redux DevTool
+* Install Chrome extension: [Redux DevTools Extension](https://github.com/zalmoxisus/redux-devtools-extension)
 
 * Install `react-redux redux` packages:
 ```
