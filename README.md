@@ -1,3 +1,13 @@
+# Learn Redux
+
+* Install Chrome extension: Redux DevTool
+
+* Install `react-redux redux` packages:
+```
+npm install react-redux redux
+```
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
